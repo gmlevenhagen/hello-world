@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi! My name is Garett
+
+I am just learning to write code. I look forward to my new career.
