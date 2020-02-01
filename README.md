@@ -7,8 +7,6 @@ I am just learning to write code. I look forward to my new career.
 
 <html>
   <head>
-    
-    
     <h1>The Great Adventure Begins!</h1>
   </head>
   <body>
